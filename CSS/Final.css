@@ -1,0 +1,64 @@
+#title{
+    background-color: #8fdbf2;
+}
+.container_fluid{padding: 3% 15%
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{font-family: 'Ubuntu', sans-serif;
+font-size: 2.5rem;}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+}
+h1{font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;}
+    .title-image{
+        width: 70%;
+        transform:rotate(20deg);
+    }
+    @media (max-width: 1000px){
+        .title-image{
+            position: static;
+            transform: rotate(0);
+        }
+    }
+    #Hobbies{
+        padding: 7% 15%
+    }
+    .Hobbies-box{
+        text-align:center;
+        padding: 5%;
+    }
+    .Hobbies-image{
+        width: 200%;
+        padding-right: 10px;
+    }
+    p{
+        color:#8f8f8f;
+    }
+    #footer{
+        padding: 7% 15%;
+        text-align: center;
+    }
+    .social-icon{
+        margin: 20px 10px;
+    }
+        h2{
+            color:rgb(255, 0, 0);
+            font-family: 'Montserrat';
+            font-size: 30;
+            font-weight: bold;
+        }
+        h3{
+            font-family: 'Montserrat';
+            font-weight: bold;
+        }
+        .Funfacts-image{width:100%;
+            padding-bottom: 50px;
+        }
